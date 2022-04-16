@@ -1,0 +1,90 @@
+{
+    "aaa":"",
+    "markers":[
+        {
+            "id":"your-hex-id-here",
+            "start":{
+                "latt": 30.41281167,
+                "long": 77.96732
+            },
+            
+            "end":{
+                "latt": 30.41155198,
+                "long": 77.96800141
+            },
+            "intensity":{
+                "level": 3,
+                "color": "yellow"
+            }
+
+        },
+        {
+            "id":"your-hex-id-here",
+            "start":{
+                "latt": 30.41155198,
+                "long": 77.96800141
+            },
+            
+            "end":{
+                "latt": 30.41026833,
+                "long": 77.96869833
+            },
+            "intensity":{
+                "level": 3,
+                "color": "yellow"
+            }
+
+        },
+        {
+            "id":"your-hex-id-here",
+            "start":{
+                "latt": 30.41026833,
+                "long": 77.96869833
+            },
+            
+            "end":{
+                "latt": 30.40967538,
+                "long": 77.96909481
+            },
+            "intensity":{
+                "level": 3,
+                "color": "yellow"
+            }
+
+        },
+        {
+            "id":"your-hex-id-here",
+            "start":{
+                "latt": 30.40967538,
+                "long": 77.96909481
+            },
+            
+            "end":{
+                "latt": 30.40768385,
+                "long": 77.97003423
+            },
+            "intensity":{
+                "level": 3,
+                "color": "yellow"
+            }
+
+        },
+        {
+            "id":"your-hex-id-here",
+            "start":{
+                "latt": 30.40967538,
+                "long": 77.96909481
+            },
+            
+            "end":{
+                "latt": 30.40768385,
+                "long": 77.97003423
+            },
+            "intensity":{
+                "level": 3,
+                "color": "yellow"
+            }
+
+        }
+    ]
+}
